@@ -1,0 +1,641 @@
+[INFO ] 2020-11-13 00:28:54.430 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:28:54.434 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:29:03.419 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 00:29:04.189 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:29:04.227 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:29:04.267 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 00:29:11.769 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:11.981 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 00:29:12.021 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:22.081 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 00:29:22.155 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:29:22.211 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:29:22.271 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:22.272 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:29:22.272 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:29:31.358 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 00:29:32.215 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:29:32.281 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:29:32.388 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 00:29:39.888 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:40.065 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 00:29:40.112 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:50.180 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 00:29:50.261 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:29:50.323 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:29:50.383 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:29:50.385 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:29:50.385 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:29:59.904 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 00:30:00.675 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:30:00.715 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:30:00.760 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 00:30:08.202 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:30:08.369 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 00:30:08.412 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:30:18.426 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 00:30:18.511 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:30:18.569 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:30:18.624 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:30:18.625 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:30:18.625 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:30:27.431 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 00:30:28.223 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:30:28.275 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:50:47.637 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:50:47.639 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:50:53.789 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 00:50:56.873 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 00:50:58.114 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31129
+[INFO ] 2020-11-13 00:50:58.148 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31116
+[INFO ] 2020-11-13 00:50:58.148 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:50:58.164 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31116
+[INFO ] 2020-11-13 00:50:58.182 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31129
+[INFO ] 2020-11-13 00:50:58.184 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:50:58.200 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31116
+[INFO ] 2020-11-13 00:50:58.217 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31129
+[INFO ] 2020-11-13 00:50:58.217 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 00:51:05.712 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:05.925 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 00:51:05.968 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:15.985 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 00:51:16.058 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:51:16.118 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:51:16.174 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:16.175 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:51:16.175 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:51:22.157 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 00:51:25.253 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 00:51:26.447 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9155
+[INFO ] 2020-11-13 00:51:26.470 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9147
+[INFO ] 2020-11-13 00:51:26.471 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:51:26.487 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9147
+[INFO ] 2020-11-13 00:51:26.505 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9155
+[INFO ] 2020-11-13 00:51:26.505 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:51:26.521 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9147
+[INFO ] 2020-11-13 00:51:26.538 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9155
+[INFO ] 2020-11-13 00:51:26.538 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 00:51:34.161 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:34.354 - libraries.TestLibrary:isDisplayed 138==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 00:51:34.387 - libraries.TestLibrary:isDisplayed 135==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 00:51:34.428 - libraries.TestLibrary:click_custom 31==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:34.694 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:51:34.756 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:51:34.838 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:34.840 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:51:34.840 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:51:40.613 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 00:51:43.697 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 00:51:44.901 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.908
+[INFO ] 2020-11-13 00:51:44.922 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 00:51:44.922 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:51:44.939 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 00:51:44.957 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.908
+[INFO ] 2020-11-13 00:51:44.958 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:51:44.977 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 00:51:45.000 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.912
+[INFO ] 2020-11-13 00:51:45.001 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 00:51:52.556 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:51:52.732 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 00:51:52.788 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:52:02.844 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 00:52:02.923 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 00:52:02.982 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 00:52:03.038 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 00:52:03.038 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 00:52:03.039 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 00:52:12.648 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 00:52:15.728 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 00:52:16.492 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7549
+[INFO ] 2020-11-13 00:52:16.517 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7545
+[INFO ] 2020-11-13 00:52:16.517 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 00:52:16.534 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7545
+[INFO ] 2020-11-13 00:52:16.553 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7549
+[INFO ] 2020-11-13 00:52:16.553 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 00:52:16.569 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7545
+[INFO ] 2020-11-13 00:52:16.585 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7549
+[INFO ] 2020-11-13 01:34:02.083 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 01:34:02.085 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 01:34:07.756 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 01:34:10.851 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 01:34:11.652 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7548
+[INFO ] 2020-11-13 01:34:11.695 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:34:11.696 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 01:34:11.739 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:34:11.762 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7548
+[INFO ] 2020-11-13 01:34:11.763 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 01:34:11.801 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:34:11.882 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7548
+[INFO ] 2020-11-13 01:44:22.287 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 01:44:22.288 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 01:44:27.983 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 01:44:31.070 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 01:44:32.322 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:44:32.356 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:44:32.356 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 01:44:32.374 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:44:32.390 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:44:32.390 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 01:44:32.407 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:44:32.424 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:46:57.680 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 01:46:57.683 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 01:47:03.458 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 01:47:06.543 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 01:47:08.024 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:47:08.053 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:47:08.053 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 01:47:08.071 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:47:08.090 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 01:47:08.090 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 01:47:08.110 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7540
+[INFO ] 2020-11-13 01:47:08.127 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7544
+[INFO ] 2020-11-13 02:18:35.348 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 02:18:35.349 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 02:18:41.225 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 02:18:44.305 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 02:18:45.068 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31093
+[INFO ] 2020-11-13 02:18:45.100 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31080
+[INFO ] 2020-11-13 02:18:45.101 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 02:18:45.117 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31080
+[INFO ] 2020-11-13 02:18:45.138 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31093
+[INFO ] 2020-11-13 02:18:45.139 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 02:18:45.162 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.31080
+[INFO ] 2020-11-13 02:18:45.186 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.31093
+[INFO ] 2020-11-13 02:18:45.186 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 02:18:53.146 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:18:53.312 - libraries.TestLibrary:isDisplayed 138==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 02:18:53.352 - libraries.TestLibrary:isDisplayed 135==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 02:18:53.402 - libraries.TestLibrary:click_custom 31==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:18:53.863 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 02:18:53.926 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 02:18:53.985 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:18:53.986 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 02:18:53.986 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 02:18:59.819 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 02:19:02.907 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 02:19:03.716 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9178
+[INFO ] 2020-11-13 02:19:03.788 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9170
+[INFO ] 2020-11-13 02:19:03.788 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 02:19:03.842 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9170
+[INFO ] 2020-11-13 02:19:03.918 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9178
+[INFO ] 2020-11-13 02:19:03.918 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 02:19:03.940 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 1.9170
+[INFO ] 2020-11-13 02:19:03.964 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 1.9178
+[INFO ] 2020-11-13 02:19:03.965 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 02:19:11.458 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:11.667 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 02:19:11.709 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:21.785 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 02:19:21.861 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 02:19:21.926 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 02:19:21.983 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:21.984 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 02:19:21.984 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 02:19:28.209 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 02:19:31.294 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 02:19:32.366 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.820
+[INFO ] 2020-11-13 02:19:32.394 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.792
+[INFO ] 2020-11-13 02:19:32.394 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 02:19:32.413 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.792
+[INFO ] 2020-11-13 02:19:32.456 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.822
+[INFO ] 2020-11-13 02:19:32.456 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 02:19:32.485 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 137.792
+[INFO ] 2020-11-13 02:19:32.504 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 137.822
+[INFO ] 2020-11-13 02:19:32.506 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 47==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 02:19:39.981 - libraries.TestLibrary:click_custom 31==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:40.191 - libraries.TestLibrary:isDisplayed 135==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 02:19:40.254 - libraries.TestLibrary:click_custom 31==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:50.279 - libraries.TestLibrary:isDisplayed 142==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 02:19:50.349 - libraries.TestLibrary:sendKeys_custom 19==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 02:19:50.406 - libraries.TestLibrary:sendKeys_custom 19==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 02:19:50.462 - libraries.TestLibrary:click_custom 31==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 02:19:50.463 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 02:19:50.463 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 20==>  Application Launched
+[INFO ] 2020-11-13 02:19:56.862 - libraries.TestLibrary:sendKeys_custom 19==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 02:19:59.954 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 26==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 02:20:01.245 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7546
+[INFO ] 2020-11-13 02:20:01.269 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 02:20:01.269 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 33==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 02:20:01.297 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 02:20:01.314 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7546
+[INFO ] 2020-11-13 02:20:01.314 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 40==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 02:20:01.330 - libraries.TestLibrary:getText_custom 122==>  Sell Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 02:20:01.347 - libraries.TestLibrary:getText_custom 122==>  Buy Price==> Text retried is: 7.7546
+[INFO ] 2020-11-13 03:06:42.526 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:06:42.544 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:06:42.922 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:06:43.132 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:06:43.225 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:06:43.282 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:06:43.481 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:06:43.544 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:06:43.612 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:06:43.615 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 03:06:50.216 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 03:06:53.303 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:06:54.117 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31173
+[INFO ] 2020-11-13 03:06:54.200 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31160
+[INFO ] 2020-11-13 03:06:54.202 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:06:54.268 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31160
+[INFO ] 2020-11-13 03:06:54.328 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31173
+[INFO ] 2020-11-13 03:06:54.329 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 03:06:54.364 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31160
+[INFO ] 2020-11-13 03:06:54.407 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31173
+[INFO ] 2020-11-13 03:07:02.241 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:07:02.241 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:07:02.321 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:02.778 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:07:02.812 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:07:02.854 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:03.052 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:07:03.113 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:07:03.172 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:03.173 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 03:07:08.936 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 03:07:12.024 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:07:13.025 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9187
+[INFO ] 2020-11-13 03:07:13.048 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9179
+[INFO ] 2020-11-13 03:07:13.049 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:07:13.064 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9179
+[INFO ] 2020-11-13 03:07:13.080 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9187
+[INFO ] 2020-11-13 03:07:13.081 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 03:07:13.107 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9179
+[INFO ] 2020-11-13 03:07:13.130 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9187
+[INFO ] 2020-11-13 03:07:20.170 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:07:20.171 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:07:20.746 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:20.913 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:07:20.954 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:30.981 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:07:31.055 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:07:31.115 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:07:31.173 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:31.173 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 03:07:36.958 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 03:07:40.043 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:07:40.819 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.893
+[INFO ] 2020-11-13 03:07:40.865 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.863
+[INFO ] 2020-11-13 03:07:40.866 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:07:40.901 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.863
+[INFO ] 2020-11-13 03:07:40.953 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.893
+[INFO ] 2020-11-13 03:07:40.954 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 03:07:40.996 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.863
+[INFO ] 2020-11-13 03:07:41.066 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.893
+[INFO ] 2020-11-13 03:07:48.976 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:07:48.977 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:07:49.086 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:49.261 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:07:49.302 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:07:49.343 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:49.544 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:07:49.613 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:07:49.671 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:07:49.671 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 03:07:55.957 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 03:07:59.063 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:07:59.851 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:07:59.901 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:07:59.902 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:07:59.921 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:07:59.958 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:07:59.959 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 5.2 - 6.0
+[INFO ] 2020-11-13 03:07:59.976 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:08:00.035 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:13:23.940 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:13:23.962 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:13:24.324 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:24.494 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:13:24.533 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:34.556 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:13:34.639 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:13:34.700 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:13:34.764 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:34.768 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 03:13:40.796 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 03:13:43.879 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:13:45.113 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31177
+[INFO ] 2020-11-13 03:13:45.136 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31164
+[INFO ] 2020-11-13 03:13:45.137 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:13:45.153 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31164
+[INFO ] 2020-11-13 03:13:45.170 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31177
+[INFO ] 2020-11-13 03:13:45.171 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 03:13:45.187 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31164
+[INFO ] 2020-11-13 03:13:45.203 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31177
+[INFO ] 2020-11-13 03:13:53.134 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:13:53.135 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:13:53.581 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:53.611 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:13:53.643 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:13:53.689 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:53.886 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:13:53.953 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:13:54.013 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:13:54.014 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 03:14:00.018 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 03:14:03.097 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:14:04.340 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9184
+[INFO ] 2020-11-13 03:14:04.364 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9176
+[INFO ] 2020-11-13 03:14:04.364 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:14:04.379 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9176
+[INFO ] 2020-11-13 03:14:04.400 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9184
+[INFO ] 2020-11-13 03:14:04.400 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 03:14:04.416 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9176
+[INFO ] 2020-11-13 03:14:04.431 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9184
+[INFO ] 2020-11-13 03:14:12.236 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:14:12.237 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:14:12.315 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:12.779 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:14:12.811 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:14:12.858 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:13.060 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:14:13.128 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:14:13.187 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:13.188 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 03:14:19.185 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 03:14:22.264 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:14:24.022 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.908
+[INFO ] 2020-11-13 03:14:24.048 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 03:14:24.049 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:14:24.066 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 03:14:24.083 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.908
+[INFO ] 2020-11-13 03:14:24.083 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 03:14:24.100 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.878
+[INFO ] 2020-11-13 03:14:24.117 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.908
+[INFO ] 2020-11-13 03:14:31.966 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:14:31.966 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:14:32.048 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:32.205 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:14:32.238 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:14:32.284 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:32.486 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:14:32.552 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:14:32.611 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:14:32.611 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 03:14:38.323 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 03:14:41.410 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:14:42.352 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:14:42.451 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:14:42.451 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:14:42.469 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:14:42.488 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:14:42.489 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 5.2 - 6.0
+[INFO ] 2020-11-13 03:14:42.505 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7538
+[INFO ] 2020-11-13 03:14:42.521 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7542
+[INFO ] 2020-11-13 03:22:48.555 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:22:48.568 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:22:48.911 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:22:49.084 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:22:49.121 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:22:49.176 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:22:49.442 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:22:49.504 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:22:49.558 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:22:49.561 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 03:22:56.644 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 03:22:56.696 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[ERROR] 2020-11-13 03:23:06.752 - libraries.TestLibrary:getText_custom 183==>  Buy Price==> Text not retried due to exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()='Buy']/following-sibling::span"}
+  (Session info: chrome=86.0.4240.193)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MSI', ip: '10.19.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nages\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f78235dbeb61c9eb9f887188a046bc03
+*** Element info: {Using=xpath, value=//button/span[text()='Buy']/following-sibling::span}
+[INFO ] 2020-11-13 03:23:14.028 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:23:14.028 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:23:14.617 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:14.839 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:23:14.893 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:24.949 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:23:25.026 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:23:25.090 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:23:25.149 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:25.150 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 03:23:30.788 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 03:23:30.845 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[ERROR] 2020-11-13 03:23:40.894 - libraries.TestLibrary:getText_custom 183==>  Buy Price==> Text not retried due to exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()='Buy']/following-sibling::span"}
+  (Session info: chrome=86.0.4240.193)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MSI', ip: '10.19.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nages\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51141}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f33dbded02b89c8d3377165ecb3178b6
+*** Element info: {Using=xpath, value=//button/span[text()='Buy']/following-sibling::span}
+[INFO ] 2020-11-13 03:23:48.097 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:23:48.097 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:23:48.646 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:48.801 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:23:48.841 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:58.856 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:23:58.928 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:23:58.990 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:23:59.049 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:23:59.050 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 03:24:05.244 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 03:24:05.297 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[ERROR] 2020-11-13 03:24:15.323 - libraries.TestLibrary:getText_custom 183==>  Buy Price==> Text not retried due to exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()='Buy']/following-sibling::span"}
+  (Session info: chrome=86.0.4240.193)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MSI', ip: '10.19.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nages\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b4ed9fa0b95ec7570b9a350a31c6088d
+*** Element info: {Using=xpath, value=//button/span[text()='Buy']/following-sibling::span}
+[INFO ] 2020-11-13 03:24:23.436 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:24:23.437 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:24:23.535 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:24:23.682 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:24:23.728 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:24:23.788 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:24:24.261 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:24:24.329 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:24:24.379 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:24:24.380 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 03:24:30.302 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 03:24:30.350 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[ERROR] 2020-11-13 03:24:40.375 - libraries.TestLibrary:getText_custom 183==>  Buy Price==> Text not retried due to exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()='Buy']/following-sibling::span"}
+  (Session info: chrome=86.0.4240.193)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'MSI', ip: '10.19.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.193, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nages\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 54ad6aeec9bd94920698db8a9bf9e575
+*** Element info: {Using=xpath, value=//button/span[text()='Buy']/following-sibling::span}
+[INFO ] 2020-11-13 03:29:59.879 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:29:59.894 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:30:00.024 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:00.235 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:30:00.269 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:30:00.313 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:00.525 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:30:00.592 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:30:00.658 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:00.665 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/USD
+[INFO ] 2020-11-13 03:30:06.249 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/USD
+[INFO ] 2020-11-13 03:30:09.340 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:30:10.075 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31190
+[INFO ] 2020-11-13 03:30:10.122 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31176
+[INFO ] 2020-11-13 03:30:10.123 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:30:10.182 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31176
+[INFO ] 2020-11-13 03:30:10.233 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31190
+[INFO ] 2020-11-13 03:30:10.235 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 1.4
+[INFO ] 2020-11-13 03:30:10.272 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.31176
+[INFO ] 2020-11-13 03:30:10.294 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.31190
+[INFO ] 2020-11-13 03:30:18.087 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:30:18.088 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:30:18.170 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:18.318 - libraries.TestLibrary:isDisplayed 204==>  Element  Login Tab is Not Displayed
+[INFO ] 2020-11-13 03:30:18.357 - libraries.TestLibrary:isDisplayed 201==>  Element  Already Have Account? - Link is Displayed
+[INFO ] 2020-11-13 03:30:18.773 - libraries.TestLibrary:click_custom 51==>  Already Have Account? - Link==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:18.875 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:30:18.960 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:30:19.020 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:19.021 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/NZD
+[INFO ] 2020-11-13 03:30:25.243 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/NZD
+[INFO ] 2020-11-13 03:30:28.335 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:30:29.157 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9196
+[INFO ] 2020-11-13 03:30:29.222 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9188
+[INFO ] 2020-11-13 03:30:29.223 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:30:29.258 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9188
+[INFO ] 2020-11-13 03:30:29.307 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9196
+[INFO ] 2020-11-13 03:30:29.307 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 1.2 - 2.6
+[INFO ] 2020-11-13 03:30:29.381 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 1.9188
+[INFO ] 2020-11-13 03:30:29.419 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 1.9196
+[INFO ] 2020-11-13 03:30:37.232 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:30:37.233 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:30:37.359 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:37.509 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:30:37.574 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:47.635 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:30:47.711 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:30:47.776 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:30:47.832 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:30:47.833 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu GBP/JPY
+[INFO ] 2020-11-13 03:30:53.466 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: GBP/JPY
+[INFO ] 2020-11-13 03:30:56.544 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:30:57.300 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.960
+[INFO ] 2020-11-13 03:30:57.326 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.929
+[INFO ] 2020-11-13 03:30:57.327 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:30:57.357 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.929
+[INFO ] 2020-11-13 03:30:57.373 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.960
+[INFO ] 2020-11-13 03:30:57.374 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 130.0 - 140.4
+[INFO ] 2020-11-13 03:30:57.390 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 137.929
+[INFO ] 2020-11-13 03:30:57.414 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 137.960
+[INFO ] 2020-11-13 03:31:04.388 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : AutomationLogs**************
+
+[INFO ] 2020-11-13 03:31:04.389 - stepdefs.TestPriceRangeSteps:i_login_to_Plus_application 19==>  Logging into Application
+[INFO ] 2020-11-13 03:31:04.920 - libraries.TestLibrary:click_custom 51==>  Demo Mode Button==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:31:05.137 - libraries.TestLibrary:isDisplayed 201==>  Element  Login Tab is Displayed
+[INFO ] 2020-11-13 03:31:05.198 - libraries.TestLibrary:click_custom 51==>  Login Tab==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:31:15.249 - libraries.TestLibrary:isDisplayed 208==>  Element  Already Have Account? - Link is Not Displayed
+[INFO ] 2020-11-13 03:31:15.322 - libraries.TestLibrary:sendKeys_custom 34==>  User Name==> Ented value as: nageshphaniraj2017@gmail.com
+[INFO ] 2020-11-13 03:31:15.379 - libraries.TestLibrary:sendKeys_custom 34==>  Password==> Ented value as: Dummy_plus500
+[INFO ] 2020-11-13 03:31:15.436 - libraries.TestLibrary:click_custom 51==>  Login==> Clicked Successfully! 
+[INFO ] 2020-11-13 03:31:15.437 - stepdefs.TestPriceRangeSteps:i_select_currency_pair_from_search_menu 25==>  Selecting following currency from the Search Menu USD/HKD
+[INFO ] 2020-11-13 03:31:21.575 - libraries.TestLibrary:sendKeys_custom 34==>  Search==> Ented value as: USD/HKD
+[INFO ] 2020-11-13 03:31:24.655 - stepdefs.TestPriceRangeSteps:i_should_see_Sell_and_Buy_Prices 31==>  Checking if Buy and Sell prices are displayed
+[INFO ] 2020-11-13 03:31:25.464 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7547
+[INFO ] 2020-11-13 03:31:25.487 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7543
+[INFO ] 2020-11-13 03:31:25.487 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_proper_decimal_numbers 38==>  Checking if Buy and Sell prices are proper decimal numbers
+[INFO ] 2020-11-13 03:31:25.503 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7543
+[INFO ] 2020-11-13 03:31:25.536 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7547
+[INFO ] 2020-11-13 03:31:25.536 - stepdefs.TestPriceRangeSteps:i_verify_both_Buy_and_Sell_Prices_are_in_the_range_to 46==>  Checking if Buy and Sell prices are in the range 5.2 - 6.0
+[INFO ] 2020-11-13 03:31:25.556 - libraries.TestLibrary:getText_custom 180==>  Sell Price==> Text retried is: 7.7543
+[INFO ] 2020-11-13 03:31:25.572 - libraries.TestLibrary:getText_custom 180==>  Buy Price==> Text retried is: 7.7547
