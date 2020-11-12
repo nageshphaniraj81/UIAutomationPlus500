@@ -17,15 +17,13 @@ Automation Framework Features :
 6. Compatible to run the tests on Chrome, Mozilla Firefox & Internet Explorer (We can set desired browser in Config.Properties)
 
 7. Includes library class (TestLibrary.java) that has common methods used across the test cases to interact with UI elements 
-
-  Example : Click, Move to Element, Select Dropdown, is Element displayed, Clear text field, Enter Values into text etc.
+Example : Click, Move to Element, Select Dropdown, is Element displayed, Clear text field, Enter Values into text etc.
 
 8. Cucumber Hooks have been implemented for initialization and teardown operations.  
 
 9. Utilities have been included to interact and retrieve data from DB (MySQL) & Properties file
 
 10. UI Flow is documented using Gherkin feature file with Example tables parameterizing Currency Pairs & Price Range. 
-
-  It includes 3 Positive Scenario and 1 negative Scenario (to demonstrate screencapture during failure)  
+It includes 3 Positive Scenario and 1 negative Scenario (to demonstrate screencapture during failure)  
  
 I have also added Sample Report & video recording of test automation execution (under project directory -> Information folder)for reference 
